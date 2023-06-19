@@ -88364,7 +88364,7 @@ agA(a){return a>=this.glS()&&a<this.guu()},
 k(a){var s=this
 return"Keyframe{startValue="+A.h(s.b)+", endValue="+A.h(s.c)+", startFrame="+A.h(s.r)+", endFrame="+A.h(s.w)+", interpolator="+A.h(s.d)+"}"}}
 A.Os.prototype={
-F(a){return new A.AM(A.ah(["/",new A.acw()],t.N,t.Ab),"/","Flutter Welcome Screen",!1,null)}}
+F(a){return new A.AM(A.ah(["/",new A.acw()],t.N,t.Ab),"/","Nestron Connect",!1,null)}}
 A.acw.prototype={
 $1(a){return new A.kD(null)},
 $S:61}
