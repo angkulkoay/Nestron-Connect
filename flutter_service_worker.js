@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "04d0c335c27595a24d81a226f7b7d43c",
-"assets/AssetManifest.smcbin": "a2d13916a5014e1649c60d30d5f8a077",
+const RESOURCES = {"assets/AssetManifest.bin": "5a675afcfeb44f7d13a8286a13cdb752",
+"assets/AssetManifest.json": "04d0c335c27595a24d81a226f7b7d43c",
 "assets/assets/2797-welcome.json": "91d17f86cdb1c49434210912626efb1c",
 "assets/assets/loader11.gif": "0e3bec257489f4041260039ce7b70001",
 "assets/assets/NESTRON%2520LOGO-Bordered-Favicon.png": "659f5e8a394f6d6ee2bc80886ac3c291",
@@ -13,7 +13,7 @@ const RESOURCES = {"assets/AssetManifest.json": "04d0c335c27595a24d81a226f7b7d43
 "assets/assets/welcome_pic.png": "aa37be0f7ff91e04a1bb037bfffe0361",
 "assets/FontManifest.json": "46f2283eb233db71ad0095ea7573c0b7",
 "assets/fonts/MaterialIcons-Regular.otf": "3b1a204fcfae097737aff84fedf0e02f",
-"assets/NOTICES": "3c05a381f226cacc6587e47e560c12c2",
+"assets/NOTICES": "ac53968e6aa064167a25e95c8d1a860e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "daa3cb8d27d902dfab01a9e8863a779b",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "eb89b2eb50234a497fb4ce53e0db13f9",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "8d65f5a238cbdbb7f9e04ec24cf393b0",
@@ -47,9 +47,9 @@ const RESOURCES = {"assets/AssetManifest.json": "04d0c335c27595a24d81a226f7b7d43
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "df8280e5061f3c7fe2b3fdd072ee6799",
-"/": "df8280e5061f3c7fe2b3fdd072ee6799",
-"main.dart.js": "361ef6d235fe2b92c457b96d124c2b25",
+"index.html": "6a6319d42223216c3b27ff60727391d3",
+"/": "6a6319d42223216c3b27ff60727391d3",
+"main.dart.js": "944d6bc618c57f091efa4a54433a87a5",
 "manifest.json": "69a51623f05156dc36977c1096ce26a1",
 "version.json": "6aa4ad4d2b4fb18cef2f66cafae93254"};
 // The application shell files that are downloaded before a service worker can
